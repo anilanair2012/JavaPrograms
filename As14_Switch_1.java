@@ -1,6 +1,6 @@
 package basicprogram;
 
-public class Switch_1 {
+public class As14_Switch_1 {
 
 
 	public static void main(String[] args) {
@@ -11,6 +11,6 @@ case 1:System.out.println("value is 1");
 break;
 case 2:System.out.println("value is 2");
 break;
-default:System.out.println("Default valyue");
+default:System.out.println("Default value");
 }
 }}

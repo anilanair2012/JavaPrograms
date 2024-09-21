@@ -2,7 +2,7 @@ package basicprogram;
 
 
 
-public class Math_Areaofcircle {
+public class As12_Math_Areaofcircle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

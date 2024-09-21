@@ -1,6 +1,6 @@
 package basicprogram;
 
-public class Thread_sleep {
+public class As13_Thread_sleep {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
