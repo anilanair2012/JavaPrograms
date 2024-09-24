@@ -26,12 +26,12 @@ class Father extends grandFather
 }
 }
 
-public class AS16_Multi_level_static extends Father {
+public class AS16_Multi_level_sta extends Father {
 
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		Multi_level_static ms1=new Multi_level_static();
+		AS16_Multi_level_sta ms1=new AS16_Multi_level_sta();
 add(2,5);
 ms1.sub(5,2);
 mul(2,5);
